@@ -1,0 +1,15 @@
+diff --git a/node_modules/@gluestack-ui/themed/build/components/index.js b/node_modules/@gluestack-ui/themed/build/components/index.js
+index d90271b..0acb506 100644
+--- a/node_modules/@gluestack-ui/themed/build/components/index.js
++++ b/node_modules/@gluestack-ui/themed/build/components/index.js
+@@ -32,8 +32,8 @@ export * from './Text';
+ export * from './Radio';
+ export * from './ScrollView';
+ export * from './SafeAreaView';
+-export * from './Select';
+-export * from './Slider';
++// export * from './Select';
++// export * from './Slider';
+ export * from './Spinner';
+ export * from './StatusBar';
+ export * from './SectionList';
