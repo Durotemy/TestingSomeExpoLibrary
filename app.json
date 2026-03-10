@@ -36,7 +36,15 @@
           "project": "react-native",
           "organization": "trustee-f5"
         }
+      ],
+      [
+        "@react-native-google-signin/google-signin"
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "6561c34d-539f-4f6e-a98e-c67dc9729b8e"
+      }
+    }
   }
 }
